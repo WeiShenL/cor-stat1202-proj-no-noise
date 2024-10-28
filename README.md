@@ -1,2 +1,2 @@
-# cor-stat1202-proj-no-noise
-Word Search without noise
+# cor-stat1202-project
+Word Search with and without noise!!
